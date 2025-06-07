@@ -8,5 +8,5 @@
     "depends": ["account"],
     "data": [],
     "installable": True,
-    "application": False,
+    "application": False
 }
